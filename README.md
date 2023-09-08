@@ -1,0 +1,2 @@
+# Myproject
+application Myproject
